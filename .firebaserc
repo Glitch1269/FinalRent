@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "uyg11lab": {
+      "hosting": {
+        "Rent-Car-FireBase": [
+          "uyg11lab"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "uyg11lab"
+  }
+}
